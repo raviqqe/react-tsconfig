@@ -1,7 +1,8 @@
-# @raviqqe/eslint-config
+# @raviqqe/react-tsconfig
 
-[![GitHub Action](https://img.shields.io/github/workflow/status/raviqqe/eslint-config/test?style=flat-square)](https://github.com/raviqqe/eslint-config/actions)
-[![License](https://img.shields.io/github/license/raviqqe/eslint-config.svg?style=flat-square)](LICENSE)
+[![GitHub Action](https://img.shields.io/github/workflow/status/raviqqe/react-tsconfig/test?style=flat-square)](https://github.com/raviqqe/react-tsconfig/actions)
+[![npm](https://img.shields.io/npm/v/@raviqqe/react-tsconfig?style=flat-square)](https://www.npmjs.com/package/@raviqqe/react-tsconfig)
+[![License](https://img.shields.io/github/license/raviqqe/react-tsconfig.svg?style=flat-square)](LICENSE)
 
 ESLint configuration for React apps.
 
