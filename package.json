@@ -1,7 +1,7 @@
 {
   "name": "@raviqqe/react-tsconfig",
   "description": "tsconfig.json for React apps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
