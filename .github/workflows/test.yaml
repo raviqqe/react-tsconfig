@@ -9,4 +9,3 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - run: npm install
-      - run: npm run build
