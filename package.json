@@ -3,6 +3,7 @@
   "description": "tsconfig.json for React apps",
   "version": "1.0.7",
   "license": "MIT",
+  "repository": "https://github.com/raviqqe/react-tsconfig",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^4.8.4"
