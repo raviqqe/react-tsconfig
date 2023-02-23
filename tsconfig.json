@@ -1,4 +1,5 @@
 {
+  "extends": "@raviqqe/tsconfig/tsconfig.json",
   "compilerOptions": {
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
