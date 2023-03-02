@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "https://github.com/raviqqe/react-tsconfig",
   "dependencies": {
-    "@raviqqe/tsconfig": "^1.0.0"
+    "@raviqqe/tsconfig": "^1.0.3"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
