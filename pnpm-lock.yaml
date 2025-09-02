@@ -1,0 +1,36 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@raviqqe/tsconfig':
+        specifier: ^2.0.0
+        version: 2.0.2
+    devDependencies:
+      typescript:
+        specifier: ^5.0.2
+        version: 5.9.2
+
+packages:
+
+  '@raviqqe/tsconfig@2.0.2':
+    resolution: {integrity: sha512-ySX6Lsem2y4/6Vnes92HhEw7xzVMZoXXnHoO/i8YQk8ZUtiIJmY2xAwcn4ERJAp4wW4Y6yYgPP0ieVig55REZQ==}
+    engines: {node: '>=24.6.0'}
+
+  typescript@5.9.2:
+    resolution: {integrity: sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+
+snapshots:
+
+  '@raviqqe/tsconfig@2.0.2':
+    dependencies:
+      typescript: 5.9.2
+
+  typescript@5.9.2: {}
