@@ -1,14 +1,11 @@
 {
   "name": "@raviqqe/react-tsconfig",
-  "description": "tsconfig.json for React apps",
   "version": "2.0.2",
+  "description": "tsconfig.json for React apps",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/react-tsconfig",
   "publishConfig": {
     "provenance": true
-  },
-  "engines": {
-    "node": "^24.7.0"
   },
   "dependencies": {
     "@raviqqe/tsconfig": "^2.0.2"
@@ -16,5 +13,8 @@
   "devDependencies": {
     "typescript": "^5.9.2"
   },
-  "packageManager": "pnpm@10.24.0+sha512.01ff8ae71b4419903b65c60fb2dc9d34cf8bb6e06d03bde112ef38f7a34d6904c424ba66bea5cdcf12890230bf39f9580473140ed9c946fef328b6e5238a345a"
+  "engines": {
+    "node": ">=25.8.0"
+  },
+  "packageManager": "pnpm@10.30.3+sha512.c961d1e0a2d8e354ecaa5166b822516668b7f44cb5bd95122d590dd81922f606f5473b6d23ec4a5be05e7fcd18e8488d47d978bbe981872f1145d06e9a740017"
 }
