@@ -1,6 +1,6 @@
 {
   "name": "@raviqqe/react-tsconfig",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "tsconfig.json for React apps",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/react-tsconfig",
