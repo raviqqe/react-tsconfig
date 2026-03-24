@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@raviqqe/tsconfig':
-        specifier: ^2.0.2
-        version: 2.0.3
+        specifier: ^3.0.0
+        version: 3.0.0
     devDependencies:
       typescript:
         specifier: ^6.0.2
@@ -18,14 +18,9 @@ importers:
 
 packages:
 
-  '@raviqqe/tsconfig@2.0.3':
-    resolution: {integrity: sha512-9eTFd1ye3CcD0vfoPVkLzBr+cOTx/Vk5+feJb9KM4rWxEx3zGtXvAr2v3Er2DOdP8w0c2KhwKXFB/By2NffIHA==}
-    engines: {node: '>=24.6.0'}
-
-  typescript@5.9.3:
-    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
-    engines: {node: '>=14.17'}
-    hasBin: true
+  '@raviqqe/tsconfig@3.0.0':
+    resolution: {integrity: sha512-axoa5/vjOV/BoPQCyOpfdQr+/vjT9HKo9fxhUB2yvh6I9oRKntcHlht5kTbTndQVBgyreHfaa1STKoFqziZ+dg==}
+    engines: {node: '>=25.8.0'}
 
   typescript@6.0.2:
     resolution: {integrity: sha512-bGdAIrZ0wiGDo5l8c++HWtbaNCWTS4UTv7RaTH/ThVIgjkveJt83m74bBHMJkuCbslY8ixgLBVZJIOiQlQTjfQ==}
@@ -34,10 +29,8 @@ packages:
 
 snapshots:
 
-  '@raviqqe/tsconfig@2.0.3':
+  '@raviqqe/tsconfig@3.0.0':
     dependencies:
-      typescript: 5.9.3
-
-  typescript@5.9.3: {}
+      typescript: 6.0.2
 
   typescript@6.0.2: {}
