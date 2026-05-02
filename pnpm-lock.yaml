@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@raviqqe/tsconfig':
         specifier: ^3.0.0
-        version: 3.0.0
+        version: 3.0.1
     devDependencies:
       typescript:
         specifier: ^6.0.2
@@ -18,8 +18,8 @@ importers:
 
 packages:
 
-  '@raviqqe/tsconfig@3.0.0':
-    resolution: {integrity: sha512-axoa5/vjOV/BoPQCyOpfdQr+/vjT9HKo9fxhUB2yvh6I9oRKntcHlht5kTbTndQVBgyreHfaa1STKoFqziZ+dg==}
+  '@raviqqe/tsconfig@3.0.1':
+    resolution: {integrity: sha512-gz/7bBrBrqHIqAlaT0TXb8RaQOTCo272urCs89UlSRBPj13OwqHSw5ilhOWW+daLBoQT3ULku3Rahy+Nm9Cy5A==}
     engines: {node: '>=25.8.0'}
 
   typescript@6.0.3:
@@ -29,7 +29,7 @@ packages:
 
 snapshots:
 
-  '@raviqqe/tsconfig@3.0.0':
+  '@raviqqe/tsconfig@3.0.1':
     dependencies:
       typescript: 6.0.3
 
